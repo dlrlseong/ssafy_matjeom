@@ -3,7 +3,7 @@
 > "맛을 점치다" - 타로카드와 AI를 활용한 개인화 메뉴 추천 플랫폼
 
 ---
-![Demo Video](videos/matjeom_compressed.mp4)
+![Demo Video](https://github.com/dlrlseong/ssafy_matjeom/blob/main/videos/matjeom_compressed.mp4)
 
 ---
 
